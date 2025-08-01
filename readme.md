@@ -8,8 +8,5 @@ Dalam melakukan transaksi, sistem ini memiliki beberapa tahapan. Admin harus har
 
 * XAMPP v3.2.4 (PHP 7.4)
   
-## Usage
-
-Buka browser dan akses halaman berikut
-* Halaman user: localhost/ecommerce-tirtamanik-master
-* Halaman admin: localhost/ecommerce-tirtamanik-master/login (username: admin123 | password: admin123)
+## User Admin
+username: admin123 | password: admin123)
