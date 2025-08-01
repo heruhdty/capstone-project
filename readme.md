@@ -7,17 +7,7 @@ Dalam melakukan transaksi, sistem ini memiliki beberapa tahapan. Admin harus har
 ## Server Requirements
 
 * XAMPP v3.2.4 (PHP 7.4)
-
-## Installation
-
-Download [program](https://codeload.github.com/ezaaputra/ecommerce-tirtamanik/zip/master).
-
-* Extract ecommerce-tirtamanik-master.zip
-* Letakkan folder ecommerce-tirtamanik-master kedalam C:\xampp\htdocs
-* Nyalakan server apache dan mysql pada xampp
-* Buka browser dan pergi ke alamat localhost/phpmyadmin
-* Import tirtamanik_db.sql (ada di dalam folder) kedalam database pada phpMyAdmin
-
+  
 ## Usage
 
 Buka browser dan akses halaman berikut
